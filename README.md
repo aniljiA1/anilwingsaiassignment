@@ -39,11 +39,10 @@ razorpay-landing/
 ## 🔧 Installation & Setup
 
 
+github link : https://github.com/aniljiA1/anilwingsaiassignment.git
 
-```
-git clone https://github.com/your-username/razorpay-landing.git
 cd razorpay-landing
-```
+
 
 ### 2️⃣ Install dependencies
 
@@ -52,6 +51,8 @@ npm install
 ### 3️⃣ Start the development server
 
 npm start
+
+run : http://localhost:3000
 
 
 ## 🖼️ Screens Included
@@ -86,7 +87,7 @@ module.exports = {
 
 ## 🚀 Deploy on Vercel
 
-Deploy link: https://anilwingsaiassignment.vercel.app/
+Live on server: https://anilwingsaiassignment.vercel.app/
 
 
 
